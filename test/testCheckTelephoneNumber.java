@@ -1,10 +1,13 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Timeout;
 
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 public class testCheckTelephoneNumber {
     @Test
+    @Timeout(value = 100, unit = TimeUnit.MILLISECONDS)
     public void testCheck() {
         checkTelephoneNumber ctn = new checkTelephoneNumber();
         Random random = new Random();
