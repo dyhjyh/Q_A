@@ -1,7 +1,8 @@
+package question;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
-import question._002_findUsefulInformation;
 
 import java.util.ArrayList;
 import java.util.List;
