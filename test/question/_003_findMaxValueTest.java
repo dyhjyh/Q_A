@@ -11,7 +11,7 @@ class _003_findMaxValueTest {
     
     @Test
     @Timeout(value = 5)
-    public void findMaxValue() {
+    public void testFindMaxValue() {
         _003_findMaxValue fmv = new _003_findMaxValue();
         Random random = new Random();
     
