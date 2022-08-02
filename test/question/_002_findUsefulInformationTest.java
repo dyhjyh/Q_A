@@ -15,7 +15,7 @@ public class _002_findUsefulInformationTest {
     private final String information1 = "";
     private final String information2 = null;
     private final String information3 = "电 teqrter话: jfafjio joi13678585912ew werfwerf wef ,  邮er ter 箱:djifjai ojargj i 10110520" +
-            "@mail.edu.cn邮re tre tre箱: re r er 5687954556@qq.com, Q wertrwe Q: rtret1234568900ret erter er tr er tert";
+            "@mail.edu.cn邮re tre tre箱: re r er 2156879545561@qq.com, Q wertrwe Q: rtret1234568900ret erter er tr er tert";
     private final String information4 = "电 teqrter话: jfafjio joi23678585912ew werfwerf wef ,  邮er ter 箱:djifjai ojargj i _10110520" +
             "@mail.edu.cn邮re tre tre箱: re r er 5687954556@qq.com, Q wertrwe Q: rtret1234568900ret erter er tr er tert";
     private final String information5 = "电 teqrter话: jfafjio joi13678585912ew werfwerf wef ,  邮er ter 箱:djifjai ojargj i 10110520" +
